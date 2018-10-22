@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051770238615",
+    "firebase_url": "https://android7817-e79ac.firebaseio.com",
+    "project_id": "android7817-e79ac",
+    "storage_bucket": "android7817-e79ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051770238615:android:a3d4e0ad47b98c1f",
+        "android_client_info": {
+          "package_name": "br.com.caelum.casadocodigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051770238615-bik9ankkpc1ma6htk3rk8vrdm6plbcrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.caelum.casadocodigo",
+            "certificate_hash": "296c8a288a282b466db309db70e1a9892276ca32"
+          }
+        },
+        {
+          "client_id": "1051770238615-svp8d6ap09ld09imot1r7okhucik5t8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpq-kSP009fwAr0J57GsNKk5bwyggCxRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051770238615-svp8d6ap09ld09imot1r7okhucik5t8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
